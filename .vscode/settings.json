@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/92359573-0aa0-4ab0-ab5d-140a0be98c41/resourceGroups/SignalRChat/providers/Microsoft.Web/sites/SignalRChat0612"
+}

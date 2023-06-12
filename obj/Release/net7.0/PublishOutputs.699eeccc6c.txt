@@ -1,0 +1,8 @@
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\SignalRChat.exe
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\appsettings.json
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\libman.json
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\SignalRChat.dll
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\SignalRChat.deps.json
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\SignalRChat.runtimeconfig.json
+C:\Users\SouPeko\Desktop\MvcDemo\SignalRChat\bin\Release\net7.0\publish\SignalRChat.pdb
